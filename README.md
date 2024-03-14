@@ -30,11 +30,4 @@ This course provides an introduction to data visualization techniques using Pyth
 ## Further Learning
 - Participants interested in furthering their knowledge in data visualization can explore other courses and resources recommended by the instructors.
 
-## Acknowledgements
-- This course is developed and taught by [(https://www.coursera.org/instructor/saishruthi-tn), https://www.coursera.org/instructor/~125758299].
-- Special thanks to [IBM].
-
-## Contact Information
-- For any queries or feedback, please contact [enwelumchiamaka@gmail.com].
-
 Happy learning!
